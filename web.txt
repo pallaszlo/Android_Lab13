@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/41078866/retrofit2-authorisation-with-bearer-token
+https://stackoverflow.com/questions/43629251/how-to-save-oauth-access-token-securely-in-android
+https://stackoverflow.com/questions/51596544/save-access-token-via-shared-preferences-android
